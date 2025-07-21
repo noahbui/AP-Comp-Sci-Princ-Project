@@ -276,12 +276,6 @@ print()
 
 print()
 
-print("\n\n\n\n" )
-
-printBoard(systemBoard)
-
-print("\n\n\n\n" )
-
 printBoard(playerBoard)
 
 #Lists the amount of flags available and allows you to choose whether you want to reveal or flag a square
